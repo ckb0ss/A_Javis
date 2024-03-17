@@ -1,0 +1,14 @@
+0. Wake up
+1. Brush my teeth
+2. Work on blaze
+3. Sleep
+0. wake up 
+1. brush
+2. washroom
+3. eat btreakfast
+4. sleep
+5. eat lunch
+6. play
+7. sleep
+0. do
+1. go
